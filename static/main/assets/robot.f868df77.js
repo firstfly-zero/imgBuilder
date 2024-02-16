@@ -1,0 +1,1 @@
+import{C as o}from"./index.646dd0dd.js";function r(t){return o.post("/api/v1/robot/addWxBot",t)}function i(){return o.get("/api/v1/robot/getWxBotDefaultConfig")}function n(t){return o.post("/api/v1/robot/addLarkBot",t)}export{r as a,n as b,i as g};
